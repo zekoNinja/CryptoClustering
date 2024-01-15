@@ -80,3 +80,6 @@ Color the graph points with the labels found using K-means.
 Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 Answer the following question:
 What is the impact of using fewer features to cluster the data using K-Means?
+
+![image](https://github.com/zekoNinja/CryptoClustering/assets/141674216/e4bf4a5b-1d7b-4298-b252-5a3ccbfc49b6)
+
